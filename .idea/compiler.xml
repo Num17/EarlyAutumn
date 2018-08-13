@@ -6,9 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="earlyautumn" />
-        <module name="eureka-server" />
         <module name="node-one" />
+        <module name="ruaiter" />
+        <module name="sso" />
       </profile>
     </annotationProcessing>
   </component>
