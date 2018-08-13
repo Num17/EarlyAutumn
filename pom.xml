@@ -31,7 +31,7 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
-        
+
     </dependencies>
 
     <dependencyManagement>
@@ -57,6 +57,7 @@
 
     <modules>
         <module>eureka-server</module>
+        <module>sso</module>
     </modules>
 
 </project>
